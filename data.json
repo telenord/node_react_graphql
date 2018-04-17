@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Ann",
+      "email": "new@test.com",
+      "age": 30,
+      "companyId": "1"
+    },
+    {
+      "firstName": "Luke",
+      "email": "Luke@test.com",
+      "age": 33,
+      "id": "57CaSpy"
+    },
+    {
+      "firstName": "Sam",
+      "email": "Sam@test.com",
+      "age": 63,
+      "id": "CKAUlP_"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "name": "Yahoo",
+      "description": "search",
+      "id": "udKalGp"
+    },
+    {
+      "name": "Yahoo2",
+      "description": "search",
+      "id": "GrdQul6"
+    },
+    {
+      "name": "Google",
+      "description": "search",
+      "id": "ZViLM6J"
+    },
+    {
+      "name": "yandex",
+      "description": "search",
+      "id": "MXPK2df"
+    }
+  ]
+}
